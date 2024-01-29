@@ -1,13 +1,17 @@
-# Hi there 👋
+# Hi there 👋 Olá 👋
 
 I'm a front-end development enthusiast with 8 years of experience building websites in Wordpress, looking to transition into the React ecosystem. My professional journey encompasses mastery in JavaScript, SASS, CSS, and HTML. Currently, I'm focusing my efforts on enhancing my skills in React, Tailwind CSS, Redux, Redux Toolkit, Thunks, React Query, Styled Components, among others.
 
 My passion for building interactive and functional interfaces drives me to seek challenging and innovative opportunities. I'm open to collaborating on projects that allow me to apply my accumulated knowledge over the years while also exploring new possibilities in the vast field of front-end development.
 
+---------------------
+
+Sou uma entusiasta do desenvolvimento front-end com 8 anos de experiência na criação de websites em Wordpress, buscando transição para o ecossistema React. Minha jornada profissional abrange a maestria em JavaScript, SASS, CSS e HTML. Atualmente, estou concentrando meus esforços em aprimorar minhas habilidades em React, Tailwind CSS, Redux, Redux Toolkit, Thunks, React Query, Styled Components, entre outras.
+
+Minha paixão pela construção de interfaces interativas e funcionais me motiva a buscar oportunidades desafiadoras e inovadoras. Estou aberto a colaborar em projetos que me permitam aplicar meu conhecimento acumulado ao longo dos anos e ao mesmo tempo explorar novas possibilidades no vasto campo do desenvolvimento front-end.
+
 <!--
 **deborabastos96/deborabastos96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
