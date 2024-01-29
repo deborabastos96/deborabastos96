@@ -34,7 +34,7 @@
 
 ⚡ Tecnologias e ferramentas com as quais trabalho:
 - Linguagens: JavaScript, HTML, CSS, Sass
-- Frameworks/Libraries: React, Redux, Tailwind CSS
+- Frameworks/Bibliotecas: React, Redux, Tailwind CSS
 - Ferramentas adicionais: Redux Toolkit, Thunks, React Query, Styled Components, etc.
 
 💬 Para entrar em contato, sinta-se à vontade para me enviar um e-mail em: deborabastos96@gmail.com ou me encontrar no LinkedIn: https://www.linkedin.com/in/deborabastos96/.
